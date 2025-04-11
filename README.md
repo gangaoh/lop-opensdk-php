@@ -1,6 +1,5 @@
 请求示例
 
-<?php
 require_once __DIR__ . "/vendor/autoload.php";
 
 use Lop\LopOpensdkPhp\Filters\ErrorResponseFilter;
